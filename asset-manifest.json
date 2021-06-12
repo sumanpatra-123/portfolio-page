@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/https://github.com/sumanpatra-123/portfolio-page/static/css/main.28c17487.chunk.css",
+    "main.js": "/https://github.com/sumanpatra-123/portfolio-page/static/js/main.c9715939.chunk.js",
+    "main.js.map": "/https://github.com/sumanpatra-123/portfolio-page/static/js/main.c9715939.chunk.js.map",
+    "runtime-main.js": "/https://github.com/sumanpatra-123/portfolio-page/static/js/runtime-main.bf13c0fc.js",
+    "runtime-main.js.map": "/https://github.com/sumanpatra-123/portfolio-page/static/js/runtime-main.bf13c0fc.js.map",
+    "static/js/2.9b9e73ea.chunk.js": "/https://github.com/sumanpatra-123/portfolio-page/static/js/2.9b9e73ea.chunk.js",
+    "static/js/2.9b9e73ea.chunk.js.map": "/https://github.com/sumanpatra-123/portfolio-page/static/js/2.9b9e73ea.chunk.js.map",
+    "static/js/3.bfcfd3d8.chunk.js": "/https://github.com/sumanpatra-123/portfolio-page/static/js/3.bfcfd3d8.chunk.js",
+    "static/js/3.bfcfd3d8.chunk.js.map": "/https://github.com/sumanpatra-123/portfolio-page/static/js/3.bfcfd3d8.chunk.js.map",
+    "index.html": "/https://github.com/sumanpatra-123/portfolio-page/index.html",
+    "static/css/main.28c17487.chunk.css.map": "/https://github.com/sumanpatra-123/portfolio-page/static/css/main.28c17487.chunk.css.map",
+    "static/js/2.9b9e73ea.chunk.js.LICENSE.txt": "/https://github.com/sumanpatra-123/portfolio-page/static/js/2.9b9e73ea.chunk.js.LICENSE.txt",
+    "static/media/mylogo.c35da1ee.png": "/https://github.com/sumanpatra-123/portfolio-page/static/media/mylogo.c35da1ee.png",
+    "static/media/App.css": "/https://github.com/sumanpatra-123/portfolio-page/static/media/pexels-tranmautritam-326508.20c86249.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf13c0fc.js",
+    "static/js/2.9b9e73ea.chunk.js",
+    "static/css/main.28c17487.chunk.css",
+    "static/js/main.c9715939.chunk.js"
+  ]
+}
